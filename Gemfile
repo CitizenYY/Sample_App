@@ -12,6 +12,7 @@ gem 'devise', '~> 4.6', '>= 4.6.1'
 gem 'figaro', '~> 1.1', '>= 1.1.1'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 gem 'sidekiq', '~> 5.2', '>= 5.2.5'
+gem 'sprockets'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.6'

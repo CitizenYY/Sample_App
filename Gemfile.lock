@@ -324,6 +324,7 @@ DEPENDENCIES
   sidekiq (~> 5.2, >= 5.2.5)
   spring (= 2.0.2)
   spring-watcher-listen (~> 2.0.1)
+  sprockets
   turbolinks (~> 5.0.1)
   tzinfo-data
   uglifier (= 3.2.0)

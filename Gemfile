@@ -7,6 +7,7 @@ end
 
 gem 'bootsnap', '~> 1.4', '>= 1.4.1', require: false
 gem "bootstrap", ">= 4.3.1"
+gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'devise', '~> 4.6', '>= 4.6.1'
 gem 'figaro', '~> 1.1', '>= 1.1.1'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'

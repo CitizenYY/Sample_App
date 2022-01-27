@@ -10,7 +10,7 @@ gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'devise', '~> 4.7'
 gem 'figaro', '~> 1.1', '>= 1.1.1'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
-gem 'sidekiq', '~> 5.2', '>= 5.2.5'
+gem 'sidekiq', '~> 6.4'
 gem 'sprockets', '~> 3.7', '>= 3.7.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
